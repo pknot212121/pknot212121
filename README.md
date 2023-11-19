@@ -1,4 +1,7 @@
-### Hi there 👋
+I'm currently working on a game about doge.
+
+
+How to reach me: http://bit.ly/3upHbyg
 
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
