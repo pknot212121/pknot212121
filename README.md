@@ -8,7 +8,7 @@ Link to the paper: https://paperswithcode.com/paper/llama-2-open-foundation-and-
 
 
 
-pknot212121.github.io
+https://pknot212121.github.io/
 
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
