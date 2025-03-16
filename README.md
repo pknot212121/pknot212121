@@ -1,14 +1,4 @@
-I'm currently working on a game about doge.
-
-
-How to reach me: http://bit.ly/3upHbyg
-
-Link to repo: https://github.com/pknot212121/llama
-Link to the paper: https://paperswithcode.com/paper/llama-2-open-foundation-and-fine-tuned-chat
-
-
-
-https://pknot212121.github.io/
+Currently studying at AGH😎😎😎
 
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
