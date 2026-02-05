@@ -1,4 +1,4 @@
-Currently studying at AGH😎😎😎
+I like reinforcement learning and pretty graphics :)
 
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
