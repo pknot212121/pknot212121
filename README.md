@@ -10,7 +10,7 @@
 
 ### 📊 Stats
 ![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pknot212121&theme=default)
-
+![stats2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pknot212121&theme=default&exclude=java)
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
