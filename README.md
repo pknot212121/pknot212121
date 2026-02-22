@@ -1,6 +1,6 @@
 I like reinforcement learning and pretty graphics :)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,clion,cmake,py,qt)](https://skillicons.dev)
+[My skills](https://skills.syvixor.com/api/icons?perline=10&i=opengl,cudacplusplus,c,cpp,cmake,clion,python,qtwidgets)
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
