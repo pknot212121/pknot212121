@@ -5,11 +5,11 @@
 - 🌱 I’m currently learning webGL and three.js fundamentals
 - 📫 How to reach me: **knotpawel554@gmail.com**
 
-### Technologie
+### My skills
 ![My skills](https://skills.syvixor.com/api/icons?perline=10&i=opengl,cudacplusplus,c,cpp,cmake,clion,python,qtwidgets,esp32)
 
-### 📊 Moje statystyki
-![stats](https://github-readme-stats.vercel.app/api?username=pknot212121&show_icons=true&theme=radial)
+### 📊 Stats
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pknot212121&theme=default)
 
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
