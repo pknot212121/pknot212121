@@ -1,5 +1,11 @@
-I like reinforcement learning and pretty graphics :)
+# Hello, I'm Paweł 👋
 
+### About me
+- 🔭 I’m currently working on a 3d game engine in openGL
+- 🌱 I’m currently learning webGL and three.js fundamentals
+- 📫 How to reach me: **knotpawel554@gmail.com**
+
+### Technologie
 ![My skills](https://skills.syvixor.com/api/icons?perline=10&i=opengl,cudacplusplus,c,cpp,cmake,clion,python,qtwidgets,esp32)
 <!--
 **pknot212121/pknot212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
